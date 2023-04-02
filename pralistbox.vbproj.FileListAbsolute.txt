@@ -1,0 +1,10 @@
+D:\vb_net\pralistbox\pralistbox\bin\Debug\pralistbox.exe
+D:\vb_net\pralistbox\pralistbox\bin\Debug\pralistbox.pdb
+D:\vb_net\pralistbox\pralistbox\bin\Debug\pralistbox.xml
+D:\vb_net\pralistbox\pralistbox\obj\Debug\ResolveAssemblyReference.cache
+D:\vb_net\pralistbox\pralistbox\obj\Debug\pralistbox.Form1.resources
+D:\vb_net\pralistbox\pralistbox\obj\Debug\pralistbox.Resources.resources
+D:\vb_net\pralistbox\pralistbox\obj\Debug\pralistbox.vbproj.GenerateResource.Cache
+D:\vb_net\pralistbox\pralistbox\obj\Debug\pralistbox.exe
+D:\vb_net\pralistbox\pralistbox\obj\Debug\pralistbox.xml
+D:\vb_net\pralistbox\pralistbox\obj\Debug\pralistbox.pdb
